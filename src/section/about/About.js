@@ -15,7 +15,7 @@ const AboutSection = () => {
           </p>
 
           <div className="flex w-full">
-            <Button type="primary" name="Subscribe" />
+            <Button type="primary" name="Subscribe Now!" />
           </div>
         </div>
 
